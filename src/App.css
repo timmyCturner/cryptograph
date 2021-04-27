@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+#example{
+
+  word-wrap: break-word;
+  width: 50%;
+}
+
+#result{
+
+  word-wrap: break-word;
+  width: 50%;
+}
+
+#input_1{
+  word-wrap: break-word;
+}
