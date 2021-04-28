@@ -37,18 +37,58 @@
   }
 }
 
+body {
+  padding: 20px 20px 0px 20px;
+
+}
+#intro{
+  font-family: "Lucida Console", "Courier New", monospace;
+  padding: 20px 20px 20px 20px;
+  font-size: 30px;
+}
+#subtitle{
+  width : 45%;
+  font-family: "Lucida Console", "Courier New", monospace;
+  padding: 20px 20px 20px 20px;
+  font-size: 20px;
+  white-space: pre-wrap;
+}
 #example{
 
   word-wrap: break-word;
-  width: 50%;
-}
+  width: 45%;
+  border-style: outset;
+  border-radius: 20px;
+  padding: 20px 20px 20px 20px;
 
+
+}
+#key {
+  word-wrap: break-word;
+  width: 45%;
+  border-style: outset;
+  border-radius: 5px;
+  padding: 20px 20px 20px 20px;
+
+}
 #result{
 
   word-wrap: break-word;
-  width: 50%;
+  width: 45%;
+  border-style: outset;
+  border-radius: 5px;
+  padding: 20px 20px 20px 20px;
+
 }
 
 #input_1{
   word-wrap: break-word;
+  width: 40%;
+  padding: 20px 20px 20px 20px;
+  margin: 20px 20px 0px 20px;
+}
+
+#encrypt_1{
+  padding: 20px 20px 20px 20px;
+  margin: 20px 20px 20px 20px;
 }
